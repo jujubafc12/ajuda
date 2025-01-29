@@ -1,0 +1,11 @@
+// Na aula do professor Matheus, quando ela digita o ${z} muda a cor no vs code e o código funciona, já no meu não
+// Não sei se é um problema no código em si, ou um problema com o próprio vs coded 
+// Prompt
+const age = prompt("Digite a sua idade:");
+
+console.log("você tem ${age} anos")
+
+// Alert
+alert("Testando");
+const z = 10
+alert ('O número é ${z}');
